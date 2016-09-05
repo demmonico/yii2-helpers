@@ -1,4 +1,4 @@
-<?php/**
+<?php /**
  * @author: dep
  * Date: 25.01.16
  */
